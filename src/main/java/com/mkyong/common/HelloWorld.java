@@ -1,7 +1,7 @@
 package com.mkyong.common;
 
 /**
- * Hello world!
+ * Hello world modified for feature_orange!
  *
  */
 public class HelloWorld 
@@ -13,6 +13,6 @@ public class HelloWorld
 	}
 	
 	public void printHello() {
-		System.out.println("Hello ! " + name);
+		System.out.println("Hello feature_orange ! " + name);
 	}
 }
